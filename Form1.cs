@@ -24,7 +24,7 @@ namespace WinFormsApp1
 
         private void textBox2_TextChanged_1(object sender, EventArgs e)
         {
-                
+            txtShow.Text = "Hello World!"; 
         }
     }
 }
